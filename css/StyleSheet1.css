@@ -1,0 +1,11 @@
+body {
+}
+
+.box {
+    background-color: skyblue;
+    width: 400px;
+    padding: 25px;
+    border: 8px solid navy;
+    margin: 10px;
+}
+
